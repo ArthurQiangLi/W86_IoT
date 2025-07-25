@@ -3,6 +3,9 @@ MQTT/AT/Home Assistant/SIM7600/
 
 ![home remote](00-media/94.jpg)
 
+Key takeaways:
+1. both 'Smart Home' and 'IIoT' use MQTT widely.
+
 ## SIM7600
 
 - [official site](https://www.simcom.com/product/SIM7600X.html).
@@ -19,7 +22,21 @@ MQTT/AT/Home Assistant/SIM7600/
 
 ## Topic1: [How is OTA achieved in IIoT?](topic1-ota/ota.md)
 
-## Topic2: [Cryptographic chip ATECC608b](./topic2-crypto-chip/crypto.md)
+## Topic2: [How Cryptographic chip ATECC608b works?](./topic2-crypto-chip/crypto.md)
+
+## Topic3: MQTT is for small data, HTTP can be for large data chunk
+
+small data exmaple like control data:
+
+```json
+{
+  "current_floor": 5,
+  "direction": "UP",
+  "door_state": "CLOSED",
+  "fault_code": "NONE",
+  "in_service": true
+}
+```
 
 
 
