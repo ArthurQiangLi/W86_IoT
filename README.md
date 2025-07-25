@@ -19,7 +19,7 @@ MQTT/AT/Home Assistant/SIM7600/
 
 ## Topic1: [How is OTA achieved in IIoT?](topic1-ota/ota.md)
 
-## Topic2: [Cryptographic chip ATECC608b]()
+## Topic2: [Cryptographic chip ATECC608b](./topic2-crypto-chip/crypto.md)
 
 
 

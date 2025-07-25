@@ -2,19 +2,24 @@
 
 ## 1. [>> Official link.](https://www.microchip.com/en-us/product/atecc608b)
 
-![package ](image-2.png)
+<img src="image-2.png" width="300">
+
 
 ![price](image-1.png)
 
 ## 2. The key is to give each chip a UNIQUE identity (https://www.youtube.com/watch?v=vZn2FU5Mn8Y)
 
-![1](image-4.png)
 
-![1](image-3.png)
 
-![3](image-5.png)
 
-![4](image-6.png)
+<img src="image-4.png" width="600">
+<img src="image-3.png" width="600">
+
+
+<img src="image-5.png" width="600">
+
+<img src="image-6.png" width="600">
+
 
 ## 3. Background knowledge: Asymmetric encryption
 
@@ -27,11 +32,11 @@
 5. The private key is private 
 
 
-![public private keys](image-8.png)
+<img src="image-8.png" width="500">
 
-![11](image-7.png)
+<img src="image-7.png" width="500">
 
-<img src="image-9.png" width="800">
+<img src="image-9.png" width="500">
 
 
 -  https://www.youtube.com/watch?v=AQDCe585Lnc
