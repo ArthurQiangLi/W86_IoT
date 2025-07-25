@@ -1,7 +1,7 @@
 # W86_IoT
 MQTT/AT/Home Assistant/SIM7600/
 
-![home remote](94.jpg)
+![home remote](00-media/94.jpg)
 
 ## SIM7600
 
@@ -15,4 +15,12 @@ MQTT/AT/Home Assistant/SIM7600/
 
 - [Seed Studio link (see h.w. prices)](https://www.seeedstudio.com/home-assistant). //[The big display](https://wiki.seeedstudio.com/reTerminal_Home_Assistant/)
 - [NABU CASA: commercial part of Home Assistance](https://support.nabucasa.com/hc/en-us) (it sells h.w. and cloud).
-- 
+
+
+## Topic1: [How is OTA achieved in IIoT?](topic1-ota/ota.md)
+
+## Topic2: [Cryptographic chip ATECC608b]()
+
+
+
+
